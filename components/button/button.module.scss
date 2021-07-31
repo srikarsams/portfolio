@@ -8,6 +8,7 @@
   cursor: pointer;
   transition: all 0.2s ease-in-out;
   border: 2px solid black;
+  display: inline-block;
 
   &:hover {
     color: black;
