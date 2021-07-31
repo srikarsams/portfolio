@@ -1,0 +1,25 @@
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  padding: 1.5rem 0;
+  color: rgb(31, 41, 55);
+  position: sticky;
+  top: 0;
+  background: white;
+  z-index: 1;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.menu {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+
+  li {
+    margin: 0 1rem;
+  }
+}
