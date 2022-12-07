@@ -19,6 +19,11 @@ class MyDocument extends Document {
             name="description"
             content="I'm Srikar Samudrala. I'm a Frontend developer."
           ></meta>
+          <script
+            async
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8059115849794120"
+            crossorigin="anonymous"
+          ></script>
         </Head>
         <body>
           <Main />
